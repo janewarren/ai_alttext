@@ -1,4 +1,4 @@
-# Vision Language Models See Color: Racial and Gender Bias in AI-Generated Alternative Text - Code Repository
+# Identity-Based Description Bias in AI-Generated Alternative Text - Code Repository
 This repository contains code and for the paper "Vision Language Models See Color: Racial and Gender Bias in AI-Generated Alternative Text," submitted for review to the Jan. 2026 ARR Cycle. It can be run entirely in Google Colab, or an IDE of your choice. 
 
 ```generate_images_alt_text.ipynb``` first generates 1200 images with GPT-image-1, and then calls GPT-4.1, Claude-Sonnet-4.5, and Gemini-2.5-Pro to generate an alt text for each image. This file was used to create our dataset, which is available on [Zenodo](https://zenodo.org/doi/10.5281/zenodo.17969599). 
