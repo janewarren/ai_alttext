@@ -7,4 +7,4 @@ This repository contains code and for the paper "Vision Language Models See Colo
 
 ```analyze_alt_text_pt2.ipynb``` performs the second part of the alt text analysis, shown in the remainder of the Results section of the paper. This includes embedding analysis, VADER sentiment analysis, token frequency imbalance, and multivariate energy distance. 
 
-The authors acknowledge the use of generative AI tools to assist in writing this code and take full credit for the finished product.
+The authors acknowledge the limited use of generative AI tools to produce code snippets for convenience and efficiency. The full program logic, algorithmic design, and final implementation were created independently by the authors. All ideas and methods are the authors' original work, as is the written content of the paper.
